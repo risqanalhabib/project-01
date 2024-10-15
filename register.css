@@ -10,15 +10,14 @@
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: pink;
+    background: darkgray;
     font-family: 'Poppins', sans-serif;
  }
 
 form {
-   width: 30%;
+   width: 50%;
    background-color: white;
-   padding: 50px;
-   border-radius: 20px;
+   padding: 30px;
    margin-top: 10px;
 } 
 .btn-success{
@@ -27,8 +26,8 @@ form {
    border-radius: 50px;
 }
 .form-control{
-   color: aquamarine;
-   border-bottom-color: aquamarine;
+   color: black;
+   border-bottom-color: black;
    box-shadow: none;
    border: none;
    border-bottom: 1px solid;
