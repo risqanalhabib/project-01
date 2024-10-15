@@ -21,6 +21,13 @@ form {
    border-radius: 20px;
    margin-top: 10px;
 } 
+.custom-icon {
+   display: flex;
+   font-size: 2rem; 
+   color: grey; 
+   justify-content: center;
+   align-items: center;
+}
 .btn-success{
    width: 100%;
    border: none;
