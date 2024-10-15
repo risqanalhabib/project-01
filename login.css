@@ -10,13 +10,13 @@
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: pink;
+    background: grey;
     font-family: 'Poppins', sans-serif;
  }
 
 form {
    width: 30%;
-   background-color: white;
+   background-color:beige;
    padding: 50px;
    border-radius: 20px;
    margin-top: 10px;
