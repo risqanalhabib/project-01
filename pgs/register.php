@@ -6,7 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Login</title>
     <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="register.css">
+    <link rel="stylesheet" href="../css_berita/register.css">
+    
+
 
 </head>
 <body> 
@@ -36,7 +38,7 @@
         
         <a href="index.html" class="index"></a>
           <div class="loreg-link mt-3">
-            <p class="text-center">Back to <a href="login.html" class="login">login</a></p>
+            <p class="text-center">Back to <a href="login.php" class="login">login</a></p>  
           </div>
       </form>
 </body>
