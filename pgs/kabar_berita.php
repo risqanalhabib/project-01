@@ -13,7 +13,7 @@
 <body>
     <class="container">
         <h2 class="text-center text-white mt-3">BERITA</h2>
-        <a href="tambah_berita" class="btn btn-success">Tambah Berita</a>
+        <a href="tambah_berita" class="btn btn-success btn-tambah">Tambah Berita</a>
         <div class="row">
             <div class="col-lg-4 col-md-6">
                 <div class="card">

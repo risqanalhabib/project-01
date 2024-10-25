@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Login</title>
     <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css-1/login.css">
+    <link rel="stylesheet" href="login.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
 
 </head>
@@ -18,7 +17,7 @@
       <div class="custom-icon mb-3 mt-1" >
         <i class="bi bi-person-circle"></i>
       </div>
-       
+      <h4 class="text-center">Login</h4> 
         <div class="mb-3 mt-5">
           <label for="khairatulnisa616@gm ail.com">Email address</label>
           <input type="email" class="form-control" id="khairatulnisa616@gmail.com" aria-describedby="emailHelp">
