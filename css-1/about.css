@@ -25,8 +25,7 @@
         display: flex;
           justify-content: center;
           align-items: center;
-      background-color: white ;
-          padding: 30px;
+      background-color: white;
           width: 900px;
       }
 
@@ -55,5 +54,10 @@
 
        .row {
         padding: 20px;
-        ;
+
        }
+@media only screen and (max-width:600){
+   .container{
+      width: 100% !important;
+   }
+}

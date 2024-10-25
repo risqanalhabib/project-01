@@ -45,9 +45,11 @@ form {
    border-radius: 4px ;
 }
 
-h4{
+h4 {
    font-size: 2rem !important;
    font-weight: 700;
+  text-align: center;
+  
 }
 
 .form-label{

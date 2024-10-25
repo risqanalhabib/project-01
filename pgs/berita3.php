@@ -8,11 +8,11 @@
     <link rel="stylesheet" href="../css/bootstrap.min.css">
 
      <!-- link css -->
-    <link rel="stylesheet" href="../css_berita/berita3.css">
+    <link rel="stylesheet" href="../css-1/berita3.css">
     <title>Prabowo brantas korupsi&judol</title>
 </head>
 <body>
-    <a href="kabar_berita.php" class="btn btn-primary">kembali</a>
+    <a href="../index.php" class="btn btn-primary">kembali</a>
     <div class="container-fluid">
     <div class="row row-cols-1 row-cols-md-2 g-4">
         <div class="col">

@@ -48,7 +48,7 @@
 				<td>  Hai, perkenalkan nama saya Risqan Al Habib, saya biasa di panggil habib umur saya 17 tahun, saya berasal dari sekolah SMK N 1 SINTOGA, salam kenal.</td>
       </tr>
 </table><br>
-<a href="about.php" class="btn btn-success">back</a>
+<a href="index.php" class="btn btn-success">back</a>
 
 </body>
 </html>

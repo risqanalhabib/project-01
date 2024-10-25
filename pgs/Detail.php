@@ -12,7 +12,7 @@
 
 </head>
 <body>
-<div class="card mb-3">
+<div class="card-all mb-3 ">
   <div class="row">
     <div class="col-md-4">
     <img src="assets/ca.jpg" class="card-img-top" alt="ica">
@@ -48,7 +48,7 @@
 				<td>  Hai, perkenalkan nama saya khairatul nisa, saya biasa di panggil ica umur saya 16 tahun, saya berasal dari sekolah SMK N 1 SINTOGA, salam kenal.</td>
       </tr>
 </table><br>
-<a href="about.php" class="btn btn-success">back</a>
+<a href="index.php" class="btn btn-success">back</a>
 
 </body>
 </html>
