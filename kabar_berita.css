@@ -29,6 +29,16 @@ h2{
     left: 15px;
 }
 
+.a{
+    width: 50%;
+    display: flex;
+    left: 10px;
+    top: 10px;
+}
+
+.btn-detail {
+    font-size: 12px;
+}
 
 
 
