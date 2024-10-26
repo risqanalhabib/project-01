@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+body {
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.img-fluid {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card mb-3 {
+    width: 800px;
+}
+
