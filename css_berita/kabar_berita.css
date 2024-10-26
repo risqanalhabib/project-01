@@ -1,5 +1,5 @@
 body {
-    background-color: grey;
+    background-color: darkgray;
     margin: 0px;
     padding: 0px;
 }
@@ -44,6 +44,14 @@ h2{
     font-size: 12px;
 >>>>>>>> a83d560fd9074e9b33b65531e836f20f1a18985b:kabar_berita.css
 }
+
+.btn-tambah{
+    margin-left: 10px;
+    font-size: 12px;
+     
+}
+
+
 
 
 

@@ -4,7 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kabar Berita</title>
+<<<<<<< HEAD
     <!-- Bootstrap CSS -->
+=======
+    <!-- Bootstrap -->
+>>>>>>> 5478ec6a50e70c3486eef5ac7c59f933684f64c6
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- link css -->
@@ -13,7 +17,11 @@
 <body>
     <div class= "container">
         <h2 class="text-center text-white mt-3">BERITA</h2>
+<<<<<<< HEAD
         <a href="tambah_berita" class="btn btn-success">Tambah Berita</a>
+=======
+        <a href="menu_tambah.php" class="btn btn-warning btn-tambah">Tambah Berita</a>
+>>>>>>> 5478ec6a50e70c3486eef5ac7c59f933684f64c6
         <div class="row">
             <div class="col-lg-4 col-md-6">
                 <div class="card">
