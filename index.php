@@ -8,11 +8,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://getbootstrap.com/docs/5.3/assets/css/docs.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css-1/index.css">
     <title>Project PKL</title>
-
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+   
   </head>
-  <body class="p-3 m-0 border-0 bd-example m-0 border-0">
+  <body class="p-3 m-0 border-0 bd-example m-0 border-0 d-flex justify-content-center align-items-center">
 
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
       <div class="container-fluid">
@@ -32,7 +33,7 @@
               <a class="nav-link" href="#about-section">About</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#kabar_berita -section">Berita</a>
+              <a class="nav-link" href="#kabar_berita-section">Berita</a>
             </li>
             
             <li class="nav-item">

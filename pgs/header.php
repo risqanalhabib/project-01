@@ -9,7 +9,7 @@
 </head>
 <body>
 
-    <div class="card mb-3" style="min-width: 900px;   ;" >
+    <div class="card mb-3" style="min-width: 900px;" >
         <div class="row g-0">
           <div class="col-md-4">
             <img src="foto/h.jpeg" class="img-fluid rounded-start">

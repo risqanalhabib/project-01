@@ -29,11 +29,11 @@ h2{
     left: 15px;
 }
 
-<<<<<<<< HEAD:css-1/kabar_berita.css
+
 .container {
     background-color: white;
-========
-.a{
+}
+.a {
     width: 50%;
     display: flex;
     left: 10px;
@@ -42,7 +42,7 @@ h2{
 
 .btn-detail {
     font-size: 12px;
->>>>>>>> a83d560fd9074e9b33b65531e836f20f1a18985b:kabar_berita.css
+
 }
 
 .btn-tambah{
