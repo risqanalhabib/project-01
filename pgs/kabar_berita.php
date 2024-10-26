@@ -4,11 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kabar Berita</title>
-<<<<<<< HEAD
+
     <!-- Bootstrap CSS -->
-=======
+
     <!-- Bootstrap -->
->>>>>>> 5478ec6a50e70c3486eef5ac7c59f933684f64c6
+
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- link css -->
@@ -16,24 +16,20 @@
 </head>
 <body>
     <div class= "container">
-        <h2 class="text-center text-white mt-3">BERITA</h2>
-<<<<<<< HEAD
-        <a href="tambah_berita" class="btn btn-success">Tambah Berita</a>
-=======
-        <a href="menu_tambah.php" class="btn btn-warning btn-tambah">Tambah Berita</a>
->>>>>>> 5478ec6a50e70c3486eef5ac7c59f933684f64c6
+        <h2 class="text text-black mt-3">BERITA</h2>
+
+
+        <a href="pgs/menu_tambah.php" class="btn btn-warning btn-tambah">Tambah Berita</a>
+
         <div class="row">
             <div class="col-lg-4 col-md-6">
                 <div class="card">
                     <img src="foto/suzuki1.png" class="card-img-top">
                     <div class="card-body">
-<<<<<<< HEAD:pgs/kabar_berita.php
-                        <h5 class="card-title">Suzuki Luncurkan Skutik Retro Baru</h5>
-                        <a href="pgs/berita1.php" class="btn btn-primary">Detail</a>
-=======
+
                         <h5 class="card-title">Suzuki Luncurkan Skutik Retro Baru resmi meluncurkan Suzuki US125T</h5>
                         <a href="berita1.php" class="btn btn-primary btn-detail">Detail</a>
->>>>>>> a83d560fd9074e9b33b65531e836f20f1a18985b:kabar_berita.php
+
                     </div>
                 </div>
             </div>
@@ -44,11 +40,10 @@
                     <img src="foto/m.tedy1.jpg" class="card-img-top">
                     <div class="card-body">
                         <h5 class="card-title">Rincian Gaji Mayor Teddy Sebagai Sekretaris Kabinet & TNI Aktif</h5>
-<<<<<<< HEAD:pgs/kabar_berita.php
+
                         <a href="pgs/berita2.php" class="btn btn-primary">Detail</a>
-=======
-                        <a href="berita2.php" class="btn btn-primary btn-detail">Detail</a>
->>>>>>> a83d560fd9074e9b33b65531e836f20f1a18985b:kabar_berita.php
+
+
                     </div>
                 </div>
             </div>
@@ -59,14 +54,18 @@
                     <img src="foto/wok1.jpg"  class="card-img-top">
                     <div class="card-body">
                         <h5 class="card-title">Prabowo Minta Kapolri-Jaksa Agung Fokus Perangi Korupsi</h5>
-<<<<<<< HEAD:pgs/kabar_berita.php
+
                         <a href="pgs/berita3.php" class="btn btn-primary">Detail</a>
-=======
-                        <a href="berita3.php" class="btn btn-primary btn-detail">Detail</a>
->>>>>>> a83d560fd9074e9b33b65531e836f20f1a18985b:kabar_berita.php
+
+
                     </div>
                 </div>
             </div>
         </div>
+
+        <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
+      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js" integrity="sha384-0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy" crossorigin="anonymous"></script>
+            <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+
 </body>
 </html>
