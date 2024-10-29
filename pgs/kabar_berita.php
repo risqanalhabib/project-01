@@ -12,7 +12,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- link css -->
-     <link rel="stylesheet" href="css_berita/kabar_berita.css">
+     <link rel="stylesheet" href="../css_berita/kabar_berita.css">
 </head>
 <body>
     <section id="berita-section" class="berita-section container mt-5">
