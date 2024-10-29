@@ -9,7 +9,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
 
      <!-- link css -->
-    <link rel="stylesheet" href="../css-1/berita1.css">
+    <link rel="stylesheet" href="../css_berita/berita1.css">
     <title>Suzuki Skutik Retro baru</title>
 </head>
 <body>

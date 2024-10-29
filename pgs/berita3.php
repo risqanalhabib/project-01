@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="../css/bootstrap.min.css">
 
      <!-- link css -->
-    <link rel="stylesheet" href="../css-1/berita3.css">
+    <link rel="stylesheet" href="../css_berita/berita3.css">
     <title>Prabowo brantas korupsi&judol</title>
 </head>
 <body>
