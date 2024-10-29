@@ -34,6 +34,7 @@ form {
    width: 100%;
    border: none;
    border-radius: 50px;
+   
 }
 
 .form-control{
@@ -42,7 +43,7 @@ form {
    box-shadow: none;
    border: none;
    border-bottom: 1px solid;
-   border-radius: 4px ;
+   border-radius: 4px;
 }
 
 h4 {

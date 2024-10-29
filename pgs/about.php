@@ -21,7 +21,7 @@
           <div class="card-body">
             
             <p class="card-text"><b>Khairatul Nisa</b></p>
-            <a href="pgs/Detail.php" class="btn btn-success">Detail</a>
+            <a href="pgs/Detail.php" class="btn-center btn-success">Detail</a>
           </div>
         </div>
 
@@ -30,7 +30,7 @@
           <div class="card-body">
             
             <p class="card-text"><b>Risqan Al Habib</b></p>
-            <a href="pgs/habib.php" class="btn btn-success">Detail</a>
+            <a href="pgs/habib.php" class="btn-center btn-success">Detail</a>
           </div>
         </div>
         </div>

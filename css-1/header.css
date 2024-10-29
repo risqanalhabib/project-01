@@ -1,23 +1,28 @@
-*{
-    margin: 0px;
-    padding: 0px;
-    
-}
-
-body {
-    margin-top: 100px;
+/* Pastikan gambar dan teks dalam card sejajar dan tidak memanjang */
+.container .card {
     display: flex;
-    justify-content: center;
     align-items: center;
-
-}
-.img-fluid {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    width: 900px;
 }
 
-.card mb-3 {
-    width: 800px;
+.container .card img {
+    max-width: 100%;
+    height: auto;
 }
 
+.navbar-nav {
+    flex-direction: row;
+}
+
+.navbar-nav .nav-item {
+    margin-left: 15px;
+}
+
+.card-title {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.text-muted {
+    font-size: 14px;
+}
