@@ -22,9 +22,9 @@ body {
   
 }
 
-.container {
+.container1 {
 display: flex;
-flex-direction: column; /* Ubah ke kolom */
+flex-direction: column;  /* Ubah ke kolom */
 justify-content: center;
 align-items: center;
 background-color: white;
@@ -35,7 +35,7 @@ padding: 20px; /* Tambahkan padding */
 }
 
 .card {
-margin-bottom: 20px; /* Menambahkan jarak antar card */
+margin-bottom: 30px; /* Menambahkan jarak antar card */
 }
 
 .card-text {
@@ -45,7 +45,7 @@ margin-bottom: 20px; /* Menambahkan jarak antar card */
 
 .text-center {
 color: black;
-margin-bottom: 20px;
+margin-bottom: 30px;
 }
 
 .btn-success {
