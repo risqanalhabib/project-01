@@ -10,16 +10,11 @@
 
    
     <div class="form-container">
-<<<<<<< HEAD
-    <a href="../index.php" class="btn btn-success ">Back</a>
-    <a href="index.php" class="btn btn-success ">Back</a>
-=======
 
+   
     <a href="../index.php" class="btn btn-success ">Back</a>
 
-    <a href="index.php" class="btn btn-success ">Back</a>
 
->>>>>>> 1db525cd799f000e7b19bb36210040d01e69abe0
          <h2>Tambah Berita</h2>
             <label for="judul">Judul Berita:</label>
             <input type="text" id="judul" name="judul" placeholder="Masukkan judul berita" required>
