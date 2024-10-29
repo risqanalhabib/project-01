@@ -6,7 +6,6 @@
 
      <!-- link bootstrap -->
     <link rel="stylesheet" href="../css/bootstrap.min.css">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
 
      <!-- link css -->
     <link rel="stylesheet" href="../css_berita/berita1.css">
@@ -15,7 +14,6 @@
 <body>
     <a href="../index.php" class="btn btn-primary">kembali</a>
     <div class="container">
-    <a href="index.php" class="btn btn-primary">kembali</a>
     <div class="container-fluid">
     <div class="row row-cols-1 row-cols-md-2 g-4">
         <div class="col">

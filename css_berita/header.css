@@ -1,24 +1,35 @@
-.navbar {
-    background-color: white;
-    width: 100%; /* Mengisi lebar layar */
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Menambahkan bayangan pada navbar */
+.bodyh {
+    margin-top: 100px;
 }
 
-.container {
+.containerh {
     display: flex;
     justify-content: space-between; /* Menyebar item secara horizontal */
     align-items: center; /* Menjaga item sejajar secara vertikal */
-    padding: 10px 20px; /* Tambahkan padding di sekitar kontainer */
+    padding: 40px 80px; /* Tambahkan padding di sekitar kontainer */
+    background-color: rgb(255, 255, 255);
+    width: 86.5%;
 }
 
-.container .logo {
-    max-height: 200px; /* Atur tinggi maksimum logo */
+.containerh .logo {
+    max-height: 170px; /* Atur tinggi maksimum logo */
 }
 
-.container .navbar-nav {
+.imgh {
+    width: 400px;
+    height: 400px;
+}
+
+.containerh .navbar-nav {
     display: flex; /* Pastikan navbar-nav juga fleksibel */
 }
 
 .navbar-nav .nav-item {
     margin-left: 15px; /* Jarak antar item navbar */
+}
+
+.cardh {
+        margin-left: 10px;
+        margin-right: 10px;
+        margin-bottom: 20px;
 }
