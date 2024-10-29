@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="../css/bootstrap.min.css">
 
     <!-- link css -->
-    <link rel="stylesheet" href="../css-1/berita2.css">
+    <link rel="stylesheet" href="../css_berita/berita2.css">
     <title>Rincian Gaji Mayor Teddy</title>
 </head>
 <body>

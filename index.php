@@ -17,16 +17,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://getbootstrap.com/docs/5.3/assets/css/docs.css" rel="stylesheet">
-    <title>Project Bersama_1</title>
+    <title>Project PKL</title>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="css-1/index.css">
+    <link rel="stylesheet" href="../css-1/index.css">
 
     <!-- Berita CSS -->
-    <link rel="stylesheet" href="css_berita/kabar_berita.css">
+    <link rel="stylesheet" href="../css_berita/kabar_berita.css">
 
     <!-- About CSS -->
-    <link rel="stylesheet" href="css-1/about.css">
+    <link rel="stylesheet" href="../css-1/about.css">
 </head>
 
 
