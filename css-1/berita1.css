@@ -2,7 +2,7 @@ body{
     background-color: grey;
    }
 
-  .container-fluid{
+  .container{
     display: flex;
     justify-content: center;
     align-items: center;

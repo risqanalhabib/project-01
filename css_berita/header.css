@@ -1,23 +1,24 @@
-*{
-    margin: 0px;
-    padding: 0px;
-    
+.navbar {
+    background-color: white;
+    width: 100%; /* Mengisi lebar layar */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Menambahkan bayangan pada navbar */
 }
 
-body {
-    margin-top: 100px;
+.container {
     display: flex;
-    justify-content: center;
-    align-items: center;
-
-}
-.img-fluid {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    justify-content: space-between; /* Menyebar item secara horizontal */
+    align-items: center; /* Menjaga item sejajar secara vertikal */
+    padding: 10px 20px; /* Tambahkan padding di sekitar kontainer */
 }
 
-.card mb-3 {
-    width: 800px;
+.container .logo {
+    max-height: 200px; /* Atur tinggi maksimum logo */
 }
 
+.container .navbar-nav {
+    display: flex; /* Pastikan navbar-nav juga fleksibel */
+}
+
+.navbar-nav .nav-item {
+    margin-left: 15px; /* Jarak antar item navbar */
+}

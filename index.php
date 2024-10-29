@@ -29,10 +29,10 @@
               <a class="nav-link active" aria-current="page" href="#">Home</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#about-section">About</a>
+              <a class="nav-link" href="pgs/about.php">About</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#kabar_berita -section">Berita</a>
+              <a class="nav-link" href="pgs/kabar_berita.php">Berita</a>
             </li>
             
             <li class="nav-item">
