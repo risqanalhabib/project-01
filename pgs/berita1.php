@@ -13,13 +13,10 @@
     <title>Suzuki Skutik Retro baru</title>
 </head>
 <body>
-<<<<<<< HEAD
     <a href="../index.php" class="btn btn-primary">kembali</a>
     <div class="container">
-=======
     <a href="index.php" class="btn btn-primary">kembali</a>
     <div class="container-fluid">
->>>>>>> 7e0561cf361be7344d2fb7888a99484cb789a61d
     <div class="row row-cols-1 row-cols-md-2 g-4">
         <div class="col">
           <div class="card">
