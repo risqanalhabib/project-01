@@ -20,9 +20,12 @@
 
     <!-- Custom CSS -->
     <link rel="stylesheet" href="css-1/index.css">
+<<<<<<< HEAD
+=======
 
     <!-- Header CSS -->
     <link rel="stylesheet" href="css_berita/header.css">
+>>>>>>> 9ddd6464271fb90e9d95c051111829a8458b007c
 
     <!-- About CSS -->
     <link rel="stylesheet" href="css-1/about.css">

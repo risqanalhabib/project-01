@@ -14,8 +14,8 @@
 </head>
 <body>
     <a href="../index.php" class="btn btn-primary">kembali</a>
+    <div class="container-fluid"> 
     <div class="container">
-    <div class="container-fluid">
     <div class="row row-cols-1 row-cols-md-2 g-4">
         <div class="col">
           <div class="card">
@@ -29,6 +29,7 @@
               </p>
             </div>
           </div>
+        </div>
         </div>
 
         <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>

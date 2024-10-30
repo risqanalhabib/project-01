@@ -14,6 +14,7 @@
 </head>
 <body>
     <a href="../index.php" class="btn btn-primary">kembali</a>
+    <div class="container-fluid"> 
     <div class="container">
     <div class="row row-cols-1 row-cols-md-2 g-4">
         <div class="col">
@@ -26,6 +27,7 @@
             </p>
             </div>
           </div>
+        </div>
         </div>
 
         <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>

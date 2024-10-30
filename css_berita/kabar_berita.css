@@ -14,8 +14,13 @@ body {
     object-fit: cover;
 }
 .btn-tambah {
+<<<<<<< HEAD
     margin-bottom: 20px; 
     width: 150px;
+=======
+    width: 150px;
+    margin-bottom: 10px;
+>>>>>>> f10f22c4e1cd7eb8020d9662f5647acb133316b0
 }
 .card-title {
     font-size: 15px;
@@ -23,15 +28,11 @@ body {
 }
 
 h2{
-    text-shadow: 2px 2px 5px black ;
-}
-
-.btn{
-    left: 15px;
+    text-shadow: 2px 2px 5px dimgray ;
 }
 
 
-.container {
+.containerb {
     display: flex;
     flex-direction: column; /* Ubah ke kolom */
     background-color: white;
@@ -54,6 +55,7 @@ h2{
 }
 
 .text {
+    background-color: whitesmoke;
     text-align: center;
     display: flex;
     justify-content: center;
