@@ -21,6 +21,12 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
     <!-- Custom CSS -->
     <link rel="stylesheet" href="css-1/index.css">
+<<<<<<< HEAD
+=======
+
+    <!-- Header CSS -->
+    <link rel="stylesheet" href="css_berita/header.css">
+>>>>>>> 9ddd6464271fb90e9d95c051111829a8458b007c
 
     <!-- Berita CSS -->
     <link rel="stylesheet" href="css_berita/kabar_berita.css">
@@ -35,7 +41,7 @@
     <nav class="navbar navbar-expand-lg navbar-light bg-body-tertiary fixed-top">
         <div class="container">
             <a class="navbar-brand" href="#">
-                <img src="foto/logo1.jpg" alt="Logo" width="70" height="50">
+                <img src="foto/logo1.jpg" alt="Logo" width="80" height="50">
             </a>
 
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">

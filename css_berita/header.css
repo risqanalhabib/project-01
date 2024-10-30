@@ -1,18 +1,21 @@
-.bodyh {
+.bodyhd {
     margin-top: 100px;
+    background-color: aquamarine;
 }
 
-.containerh {
+.containerhd {
+
     display: flex;
-    justify-content: space-between; /* Menyebar item secara horizontal */
+    justify-content: center;
     align-items: center; /* Menjaga item sejajar secara vertikal */
     padding: 40px 80px; /* Tambahkan padding di sekitar kontainer */
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(255, 139, 139);
     width: 86.5%;
+    bottom: -280px;
 }
 
-.containerh .logo {
-    max-height: 170px; /* Atur tinggi maksimum logo */
+.containerhd .logo {
+    max-height: 100px; /* Atur tinggi maksimum logo */
 }
 
 .imgh {
@@ -28,8 +31,21 @@
     margin-left: 15px; /* Jarak antar item navbar */
 }
 
-.cardh {
+.cardhd {
+    background-color: aqua;
         margin-left: 10px;
         margin-right: 10px;
         margin-bottom: 20px;
 }
+
+.container1 {
+    display: flex;
+    flex-direction: column;  /* Ubah ke kolom */
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(255, 96, 96);
+    width: 90%; /* Sesuaikan lebar */
+    max-width: 900px; /* Batas lebar maksimum */
+    margin: auto; /* Pusatkan kontainer */
+    padding: 20px; /* Tambahkan padding */
+    }
