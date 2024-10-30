@@ -26,8 +26,10 @@
   border: none;
   border-radius: 50px;
   padding: 10px 20px;
+  
 }
 
 .containert {
-  height: 450px;
+  height: 600px;
+  background-color: white;
 }

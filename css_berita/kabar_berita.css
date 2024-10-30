@@ -17,8 +17,7 @@ body {
 
     margin-bottom: 20px; 
     width: 150px;
-    width: 150px;
-    margin-bottom: 10px;
+
 
 }
 .card-title {
@@ -35,7 +34,7 @@ h2{
     display: flex;
     flex-direction: column; /* Ubah ke kolom */
     background-color: white;
-    width: 90%;  /* Sesuaikan lebar */
+    width: 600%;  /* Sesuaikan lebar */
     max-width: 900px; /*Batas lebar maksimum*/
     margin: auto; /*Pusatkan kontainer */
     padding: 20px; /* Tambahkan padding */
