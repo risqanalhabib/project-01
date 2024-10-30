@@ -34,9 +34,9 @@ h2{
     display: flex;
     flex-direction: column; /* Ubah ke kolom */
     background-color: white;
-    width: 90%; /* Sesuaikan lebar */
-    max-width: 900px; /* Batas lebar maksimum */
-    margin: auto; /* Pusatkan kontainer */
+    width: 90%;  /* Sesuaikan lebar */
+    max-width: 900px; /*Batas lebar maksimum*/
+    margin: auto; /*Pusatkan kontainer */
     padding: 20px; /* Tambahkan padding */
 }
 

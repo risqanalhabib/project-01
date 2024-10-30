@@ -26,7 +26,7 @@
         <h5 class="card-title">Khairatul Nisa</h5>
         <p class="card-text"><small>Rekayasa Perangkat Lunak</small></p>
         
-<div class="content">
+<div class="content1">
 		<table>
 			<tr>
 				<td> Email :</td>

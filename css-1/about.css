@@ -1,72 +1,32 @@
-* {
-  margin: 0;
-  padding: 0;
-  
-}
-
-body {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  min-height: 100vh;
-  background-color: beige;
-  font-family: 'Poppins', sans-serif;
-}
-
-.card-img-top {
-  margin-top: 20px; 
-  border-radius: 20px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  
-}
-
-.container1 {
-display: flex;
-flex-direction: column;  /* Ubah ke kolom */
-justify-content: center;
-align-items: center;
-background-color: white;
-width: 90%; /* Sesuaikan lebar */
-max-width: 900px; /* Batas lebar maksimum */
-margin: auto; /* Pusatkan kontainer */
-padding: 20px; /* Tambahkan padding */
+.about-us-section {
+  padding: 20px;
 }
 
 .card {
-margin-bottom: 30px; /* Menambahkan jarak antar card */
+  border: none;
+  border-radius: 10px;
+  overflow: hidden;
+  background-color: aquamarine;
 }
 
-.card-text {
-  text-align: center;
-   
+.card-img-top {
+  width: 100%; /* Sesuaikan gambar dengan lebar card */
+  height: 250px; /* Tinggi tetap */
+  object-fit: cover; /* Memotong gambar agar sesuai tanpa distorsi */
 }
 
-.text-center {
-color: black;
-margin-bottom: 30px;
+.card-title1 {
+  font-size: 18px;
+  font-weight: 600;
+  color: #333;
 }
 
 .btn-success {
   border: none;
-  display: flex;
   border-radius: 50px;
-  justify-content: center;
-  align-items: center;
+  padding: 10px 20px;
+}
+
+.container-about {
   
-}
-
-.card {
-width: 15rem;
-}
-
-.row {
-padding: 20px;
-
-}
-@media only screen and (max-width: 600px) {
-.container {
-    width: 100%;
-}
 }
