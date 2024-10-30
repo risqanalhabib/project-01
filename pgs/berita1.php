@@ -5,10 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
      <!-- link bootstrap -->
-    <link rel="stylesheet" href="../css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
 
      <!-- link css -->
-    <link rel="stylesheet" href="../css_berita/berita1.css">
+    <link rel="stylesheet" href="css_berita/berita1.css">
     <title>Suzuki Skutik Retro baru</title>
 </head>
 <body>
