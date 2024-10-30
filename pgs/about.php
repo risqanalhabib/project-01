@@ -16,7 +16,7 @@
 <div class="containert about-us-section my-5">
   
   <!-- Judul About Us -->
-  <h1 class="text-center mb-5">About Us</h1>
+  <h1 class="text-center mb-5">About us</h1>
 
   <div class="row justify-content-center">
     

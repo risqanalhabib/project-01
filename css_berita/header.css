@@ -1,5 +1,5 @@
 .bodyhd {
-    margin-top: 150px;
+    margin-top: 50px;
     background-color: whitesmoke;
 }
 
@@ -45,7 +45,7 @@
     align-items: center;
     background-color: white;
     width: 90%; /* Sesuaikan lebar */
-    max-width: 400px; /* Batas lebar maksimum */
+    min-width: 400px; /* Batas lebar maksimum */
     margin: auto; /* Pusatkan kontainer */
     padding: 20px; /* Tambahkan padding */
     }

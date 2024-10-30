@@ -13,6 +13,7 @@
 
     <!-- link css -->
      <link rel="stylesheet" href="css_berita/kabar_berita.css">
+     
 </head>
 <body>
     <section id="berita-section" class="berita-section container mt-5">
