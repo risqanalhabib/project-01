@@ -14,13 +14,12 @@ body {
     object-fit: cover;
 }
 .btn-tambah {
-<<<<<<< HEAD
+
     margin-bottom: 20px; 
     width: 150px;
-=======
     width: 150px;
     margin-bottom: 10px;
->>>>>>> f10f22c4e1cd7eb8020d9662f5647acb133316b0
+
 }
 .card-title {
     font-size: 15px;
