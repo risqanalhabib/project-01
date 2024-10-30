@@ -20,13 +20,13 @@
     <title>Project PKL</title>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="../css-1/index.css">
+    <link rel="stylesheet" href="css-1/index.css">
 
     <!-- Berita CSS -->
-    <link rel="stylesheet" href="../css_berita/kabar_berita.css">
+    <link rel="stylesheet" href="css_berita/kabar_berita.css">
 
     <!-- About CSS -->
-    <link rel="stylesheet" href="../css-1/about.css">
+    <link rel="stylesheet" href="css-1/about.css">
 </head>
 
 

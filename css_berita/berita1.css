@@ -1,8 +1,8 @@
 body{
-    background-color: grey;
+    background-color: white;
    }
 
-  .container-fluid{
+  .container{
     display: flex;
     justify-content: center;
     align-items: center;

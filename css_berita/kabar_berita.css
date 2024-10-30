@@ -13,8 +13,9 @@ body {
     height: 200px;
     object-fit: cover;
 }
-.btn-tambah-berita {
-    margin-bottom: 20px;
+.btn-tambah {
+    width: 150px;
+    margin-bottom: 10px;
 }
 .card-title {
     font-size: 15px;
@@ -22,15 +23,11 @@ body {
 }
 
 h2{
-    text-shadow: 2px 2px 5px black ;
-}
-
-.btn{
-    left: 15px;
+    text-shadow: 2px 2px 5px dimgray ;
 }
 
 
-.container {
+.containerb {
     display: flex;
     flex-direction: column; /* Ubah ke kolom */
     background-color: white;
@@ -53,6 +50,7 @@ h2{
 }
 
 .text {
+    background-color: whitesmoke;
     text-align: center;
     display: flex;
     justify-content: center;
