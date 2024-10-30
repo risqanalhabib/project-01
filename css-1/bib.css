@@ -1,43 +1,36 @@
-body {
-          display: flex;
-          justify-content: center;
-          align-items: center;
-          background-color: beige;
-          min-height: 100vh;
-          font-family: sans-serif Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-       }
-       
- .card-img-top {
-          border-radius: 20px;
-          width: 300px;
-          margin: 30px;
- }
- 
- .btn-success {
-      border: none;
+.body-bib {
       display: flex;
-      border-radius: 50px;
       justify-content: center;
       align-items: center;
+      min-height: 100vh;
+      font-family: sans-serif, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+  
+  .img-habib {
+      border-radius: 20px;
+      width: 100%; /* Membuat gambar lebih responsif */
+      margin: 20px;
+  }
+  
+  .btn-success {
+      border: none;
+      border-radius: 50px;
       width: 100px;
-   }
-
-.content {
-      width: 600px;
-     
-}
-
-td {
+  }
+  
+  .content {
+      max-width: 100%;
+  }
+  
+  td {
       font-size: 15px;
-     background-color: white;
-     border: 1px solid black;
-     width: 400px;
-     height: 40px; 
-     
-}
-
-.card-title {
+      background-color: white;
+      border: 1px solid black;
+      width: 100px;
+      height: 40px;
+  }
+  
+  .card-title1 {
       margin-top: 20px;
-}
-
-
+  }
+  
