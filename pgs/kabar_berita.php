@@ -16,7 +16,7 @@
 </head>
 <body>
     <section id="berita-section" class="berita-section container mt-5">
-    <div class= "containerb">
+    <div class= "container">
         <h2 class="text-center text-black mt-3">BERITA</h2>
 
 

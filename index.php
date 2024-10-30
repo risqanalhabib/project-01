@@ -21,12 +21,9 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
     <!-- Custom CSS -->
     <link rel="stylesheet" href="css-1/index.css">
-<<<<<<< HEAD
-=======
 
     <!-- Header CSS -->
     <link rel="stylesheet" href="css_berita/header.css">
->>>>>>> 9ddd6464271fb90e9d95c051111829a8458b007c
 
     <!-- Berita CSS -->
     <link rel="stylesheet" href="css_berita/kabar_berita.css">
