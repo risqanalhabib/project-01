@@ -53,7 +53,7 @@
                         <a class="nav-link m-2" href="#berita-section">Berita</a>
                     </li>
                     <li class="nav-item">
-                    <a class="btn m-2 bg-white fw-medium text-black" href="pgs/login.html" style="width: auto; padding-left: 30px; padding-right: 30px;">Login</a>
+                    <a class="btn m-2 bg-black fw-medium text-white" href="pgs/login.html" style="width: auto; padding-left: 30px; padding-right: 30px;">Login</a>
                     </li>
                 </ul>
             </div>
