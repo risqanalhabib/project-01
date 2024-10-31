@@ -1,39 +1,33 @@
 body {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      background-color: beige;
-      min-height: 100vh;
-      font-family: sans-serif Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-   }
-   
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  font-family: sans-serif, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
 .card-img-top {
-      border-radius: 20px;
-      width: 300px;
-      margin: 30px;
+  border-radius: 20px;
+  width: 100%; /* Membuat gambar lebih responsif */
+  margin: 20px;
 }
 
 .btn-success {
   border: none;
-  display: flex;
   border-radius: 50px;
-  justify-content: center;
-  align-items: center;
   width: 100px;
 }
 
 .content1 {
-  width: 600px;
- 
+  max-width: 100%;
 }
 
 td {
   font-size: 15px;
- background-color: white;
- border: 1px solid black;
- width: 400px;
- height: 40px; 
- 
+  background-color: white;
+  border: 1px solid black;
+  width: 100px;
+  height: 40px;
 }
 
 .card-title {

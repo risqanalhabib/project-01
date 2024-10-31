@@ -22,29 +22,31 @@
     <!-- Custom CSS -->
     <link rel="stylesheet" href="css-1/index.css">
 
+    <!-- Header CSS -->
+    <link rel="stylesheet" href="css_berita/header.css">
+
     <!-- Berita CSS -->
-    <link rel="stylesheet" href="../css_berita/kabar_berita.css">
+    <link rel="stylesheet" href="css_berita/kabar_berita.css">
 
     <!-- About CSS -->
-    <link rel="stylesheet" href="../css-1/about.css">
+    <link rel="stylesheet" href="css-1/about.css">
 </head>
 
 
 <body>
     <!-- Navigasi Menu -->
-    <nav class="navbar navbar-expand-lg navbar-light bg-body-tertiary fixed-top">
-        <div class="container">
-            <a class="navbar-brand" href="#">
-                <img src="foto/logo1.jpg" alt="Logo" width="70" height="50">
-            </a>
-
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarNav">
+    <nav class="navbar navbar-expand-lg bg-body-tertiary fixed-top">
+      <div class="container-fluid">
+        <a>
+        <img src="foto/logo1.jpg" alt="Logo" width="70" height="50">
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item">
-                        <a class="nav-link active m-2" aria-current="page" href="#">Home</a>
+                        <a class="nav-link  m-2" aria-current="page" href="#">Home</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link m-2" href="#about-section">About</a>
@@ -53,7 +55,11 @@
                         <a class="nav-link m-2" href="#berita-section">Berita</a>
                     </li>
                     <li class="nav-item">
+<<<<<<< HEAD
                     <a class="btn m-2 bg-black fw-medium text-white" href="pgs/login.html" style="width: auto; padding-left: 30px; padding-right: 30px;">Login</a>
+=======
+                    <a class="btn m-2 bg-white fw-medium text-black" href="pgs/login.html">Login</a>
+>>>>>>> 992880330cd58beb75a00ba87843b6f8a9baac3d
                     </li>
                 </ul>
             </div>

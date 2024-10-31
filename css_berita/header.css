@@ -8,14 +8,14 @@
     display: flex;
     justify-content: center;
     align-items: center; /* Menjaga item sejajar secara vertikal */
-    padding: 40px 40px; /* Tambahkan padding di sekitar kontainer */
+     padding: 40px 40px; /* Tambahkan padding di sekitar kontainer */
     background-color: white;
     width: 84%;
     bottom: -280px;
 }
 
 .containerhd .logo {
-    max-height: 100px; /* Atur tinggi maksimum logo */
+    min-height: 100px; /* Atur tinggi maksimum logo */
 }
 
 .imgh {
@@ -45,7 +45,7 @@
     align-items: center;
     background-color: white;
     width: 90%; /* Sesuaikan lebar */
-    min-width: 400px; /* Batas lebar maksimum */
+    min-width: 500px; /* Batas lebar maksimum */
     margin: auto; /* Pusatkan kontainer */
     padding: 20px; /* Tambahkan padding */
     }

@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Web Bersama</title>
+<<<<<<< HEAD
     <link rel="stylesheet" href="../css_berita/header.css">
     <link rel="stylesheet" href="css_berita/header.css">
 
@@ -15,6 +16,11 @@
     <link rel="stylesheet" href="css_berita/header.css">
 
 
+=======
+
+    <link rel="stylesheet" href="css_berita/header.css">
+
+>>>>>>> 992880330cd58beb75a00ba87843b6f8a9baac3d
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body class="bodyhd">

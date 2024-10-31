@@ -26,6 +26,7 @@
         <img src="foto/ca.jpg" alt="Khairatul Nisa" class="card-img1-top about-photo">
         <div class="card-body text-center">
           <h5 class="card-title1">Khairatul Nisa</h5>
+          <h5 class="card-title"><small><i>Ayo, ketahui lebih banyak tentang saya</i></small></h5>
           <a href="pgs/Detail.php" class="btn btn-success">Detail</a>
         </div>
       </div>
@@ -37,6 +38,7 @@
         <img src="foto/hb.jpg" alt="Risqan Al Habib" class="card-img1-top about-photo">
         <div class="card-body text-center">
           <h5 class="card-title1">Risqan Al Habib</h5>
+          <h5 class="card-title"><small><i>Ayo, ketahui lebih banyak tentang saya</i></small></h5>
           <a href="pgs/habib.php" class="btn btn-success">Detail</a>
         </div>
       </div>
