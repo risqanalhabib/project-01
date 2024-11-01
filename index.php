@@ -5,9 +5,6 @@
 <!DOCTYPE html>
 <html lang="id">
 
-
-
-
 <head>
 
     <!-- Favicon -->
@@ -36,14 +33,14 @@
 <body>
     <!-- Navigasi Menu -->
     <nav class="navbar navbar-expand-lg bg-body-tertiary fixed-top">
-      <div class="container-fluid">
-        <a>
-        <img src="foto/logo1.jpg" alt="Logo" width="70" height="50">
-        </a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarNav">
+        <div class="container-fluid">
+            <a>
+                <img src="foto/logo1.jpg" alt="Logo" width="70" height="50">
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item">
                         <a class="nav-link  m-2" aria-current="page" href="#">Home</a>
@@ -55,11 +52,7 @@
                         <a class="nav-link m-2" href="#berita-section">Berita</a>
                     </li>
                     <li class="nav-item">
-<<<<<<< HEAD
-                    <a class="btn m-2 bg-black fw-medium text-white" href="pgs/login.html" style="width: auto; padding-left: 30px; padding-right: 30px;">Login</a>
-=======
-                    <a class="btn m-2 bg-white fw-medium text-black" href="pgs/login.html">Login</a>
->>>>>>> 992880330cd58beb75a00ba87843b6f8a9baac3d
+                        <a class="btn m-2 bg-white fw-medium text-black" href="pgs/login.html">Login</a>
                     </li>
                 </ul>
             </div>
@@ -67,15 +60,15 @@
     </nav>
 
 
-    <?php Include("pgs/header.php"); ?>
+    <?php include("pgs/header.php"); ?>
 
-        <hr class="container mt-5 mb-2">
-        
+    <hr class="container mt-5 mb-2">
 
-        <!-- Include About dan Berita -->
-        <?php include("pgs/about.php"); ?>
-        <hr class="container mt-5 mb-2">
-        <?php include("pgs/kabar_berita.php"); ?>
+
+    <!-- Include About dan Berita -->
+    <?php include("pgs/about.php"); ?>
+    <hr class="container mt-5 mb-2">
+    <?php include("pgs/kabar_berita.php"); ?>
     </div>
     <!-- Bootstrap 5.3.3 JS Bundle -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+DmZhu9Kq5zY1N4NjZkQ+gxGjkM95" crossorigin="anonymous"></script>

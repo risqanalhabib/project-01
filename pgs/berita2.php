@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -11,8 +12,9 @@
     <link rel="stylesheet" href="../css_berita/berita2.css">
     <title>Rincian Gaji Mayor Teddy</title>
 </head>
+
 <body>
-    <a href="../index.php" class="btn btn-primary btn-back">Kembali</a>
+    <a href="../index.php" class="btn btn-success">Kembali</a>
     <div class="d-flex justify-content-center align-items-center vh-100">
         <div class="container">
             <div class="row justify-content-center">
@@ -40,4 +42,5 @@
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
+
 </html>
