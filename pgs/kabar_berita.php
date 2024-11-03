@@ -57,7 +57,7 @@
                     <div class="card">
                         <img src="foto/wok1.jpg" class="card-img-top">
                         <div class="card-body">
-                            <h5 class="card-title">Prabowo Minta Kapolri-Jaksa Agung Fokus Perangi Korupsi</h5>
+                            <h5 class="card-title">Prabowo Minta Kapolri-Jaksa Agung Fokus Perangi Korupsi dan judi online</h5>
 
                             <a href="pgs/berita3.php" class="btn btn-success">Detail</a>
 

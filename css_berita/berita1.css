@@ -1,20 +1,23 @@
 body {
-    background-color: white;
+  background-color: white;
 }
 
 .container {
-    margin-top: 20px;
+  margin-top: 20px;
 }
 
 .card {
-    max-width: 100%;
+  max-width: 100%;
 }
 
 .card-body {
-    text-align: center;
+  text-align: center;
 }
 
-.btn-primary {
-    position: absolute;
-    margin: 15px;
+.btn {
+  position: absolute;
+  margin: 15px;
+  margin-top: 10px;
+  margin-left: 10px;
 }
+
